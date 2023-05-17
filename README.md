@@ -16,7 +16,7 @@
 
  ## Proyectos
 
- # Simple TODO Application
+ ### Simple TODO Application
  
  * Aplicación sencilla con uso de Flutter BLoC como gestor de estado y Hexagonal Architecture.
 

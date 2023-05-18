@@ -10,7 +10,6 @@
  * Java Basics
  * Git/Github
  * Patrones de diseño
- * Jira 
  * Consumo de API
  * Arquitectura limpia
 

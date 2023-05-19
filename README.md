@@ -19,6 +19,10 @@
  
  * Aplicación sencilla con uso de Flutter BLoC como gestor de estado y Hexagonal Architecture.
 
+### Weather Application ( En construcción )
+
+ * Aplicación del clima consumiendo una API (Weather Api) , utilizando como gestor de estado flutter BLoC , patrón BLoC y Hexagonal Architecture.
+
 
 
 

@@ -3,7 +3,7 @@
  * Mi nombre es Gaspar, soy de Argentina, Tengo 24 años y soy desarrollador JR de aplicaciones móviles.
  * Utilizo la tecnologia Flutter para poder realizar proyectos multiplataforma.
 
-## Skills 
+## Skills 📖
 
  * Dart
  * Flutter
@@ -13,7 +13,7 @@
  * Consumo de API
  * Arquitectura limpia
 
- ## Proyectos
+ ## Personal Projects 🛠️
 
  ### Simple TODO Application
  

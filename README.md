@@ -21,7 +21,7 @@
 
 ### Weather Application ( En construcción )
 
- * Aplicación del clima consumiendo una API (Weather Api) , utilizando como gestor de estado flutter BLoC , patrón BLoC y Hexagonal Architecture.
+ * Aplicación del clima que consume una API (Weather Api) , utilizando como gestor de estado flutter BLoC , patrón BLoC y Hexagonal Architecture.
 
 
 

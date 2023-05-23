@@ -11,7 +11,7 @@
  * Git/Github
  * Patrones de diseño
  * Consumo de API
- * Arquitectura limpia
+ * Arquitectura limpia & Hexagonal
 
  ## Personal Projects  🛠️
 

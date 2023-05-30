@@ -5,13 +5,13 @@
 
 ## Skills  📖
 
- * Dart
- * Flutter
- * Java Basics
- * Git/Github
- * Patrones de diseño
- * Consumo de API
- * Arquitectura limpia & Hexagonal
+ * Dart.
+ * Flutter.
+ * Java Basics.
+ * Git/Github.
+ * Patrones de diseño.
+ * Consumo de API.
+ * Arquitectura limpia & Hexagonal.
 
  ## Personal Projects  🛠️
 

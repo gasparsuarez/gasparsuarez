@@ -3,8 +3,8 @@
 <h3 align="center">Soy desarrollador Junior de aplicaciones móviles, tengo 24 años y soy de La Plata, Argentina.</h3>
 
 - 👨‍💻 Utilizo la tecnologia Flutter para realizar proyectos multiplataforma.
-- 🌱 Actualmente estoy completando un bootcamp de Java orientado al backend en **ATLAcademy**
-- 📫 Contacto **gaspar.mdp@gmail.com**
+- 🌱 Actualmente estoy completando un bootcamp de Java orientado al backend en **ATLAcademy**.
+- 📫 Contacto **gaspar.mdp@gmail.com**.
 <h3 align="left">Otros medios:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaspar-suarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaspar-suarez" height="30" width="40" /></a>

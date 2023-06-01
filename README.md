@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola! 👋 soy Gaspar Suarez</h1>
-<h3 align="center">Soy desarrollador Junior de aplicaciones móviles, tengo 24 años y soy de La Plata, Argentina.</h3>
+<h3 align="center">Soy desarrollador Junior de aplicaciones móviles, tengo 24 años y actualmente vivo en la ciudad de La Plata, Argentina.</h3>
 
 - 👨‍💻 Utilizo la tecnologia Flutter para realizar proyectos multiplataforma.
 - 🌱 Actualmente estoy completando un bootcamp de Java orientado al backend en **ATLAcademy**.

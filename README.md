@@ -4,7 +4,7 @@
 
 - 👨‍💻 Utilizo la tecnologia Flutter para realizar proyectos multiplataforma.
 - 🌱 Actualmente estoy completando un bootcamp de Java orientado al backend en **ATLAcademy**.
-- 💼 Participando en proyecto como desarrollador mobile FrontEnd en **www.digitalsystemsmarket.com**
+- 💼 Participo en un proyecto como desarrollador mobile FrontEnd en **www.digitalsystemsmarket.com**
 
 - 📫 Contacto **gaspar.mdp@gmail.com**.
 

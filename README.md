@@ -32,7 +32,7 @@
 ### Weather App
 
  * Aplicación del clima que consume un API (Weather Api).
- * Utiliza como gestor de estado flutter BLoC , patrón BLoC y Arquitectura Hexagonal.
+ * Flutter BLoC , patrón BLoC y Arquitectura Hexagonal.
  * Diferentes funcionalidades (pronóstico de 13 días, buscador, convertidor a Fahrenheit y pestaña de recientes).
 
 

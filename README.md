@@ -18,19 +18,21 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p> 
  
 ## Habilidades  📖
+
  - Patrones de diseño.
  - Consumo de API.
  - Arquitectura limpia & Hexagonal.
 
  ## Proyectos personales  🛠️
 
- ### Simple TODO Application
+ ### Simple TODO App
  
  * Aplicación sencilla con uso de Flutter BLoC como gestor de estado y Hexagonal Architecture.
 
-### Weather Application
+### Weather App
 
- * Aplicación del clima que consume una API (Weather Api) , utilizando como gestor de estado flutter BLoC , patrón BLoC y Hexagonal Architecture.
+ * Aplicación del clima que consume un API (Weather Api).
+ * Utiliza como gestor de estado flutter BLoC , patrón BLoC y Arquitectura Hexagonal.
  * Diferentes funcionalidades (pronóstico de 13 días, buscador, convertidor a Fahrenheit y pestaña de recientes).
 
 

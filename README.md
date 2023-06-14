@@ -3,8 +3,8 @@
 <h3 align="center">Soy desarrollador Junior de aplicaciones móviles.</h3>
 
 - ℹ️ Tengo 24 años y actualmente vivo en la ciudad de La Plata, Argentina.
-- 👨‍💻 Utilizo la tecnologia Flutter para realizar proyectos multiplataforma.
-- 🌱 Actualmente estoy completando un bootcamp de Java orientado al backend en **ATLAcademy**.
+- 👨‍💻 Utilizo la tecnología Flutter para realizar proyectos multiplataforma.
+- 🌱 Actualmente estoy completando un bootcamp de Java con Springboot orientado al backend en **ATLAcademy**.
 - 💼 Participo en un proyecto como desarrollador mobile FrontEnd en **www.digitalsystemsmarket.com**
 
 - 📫 Contacto **gaspar.mdp@gmail.com**.

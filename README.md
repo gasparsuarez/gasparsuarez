@@ -22,17 +22,17 @@
  
 ## Habilidades  📖
 
- - Patrones de diseño.
- - Consumo de API.
- - Arquitectura limpia & Hexagonal.
+ - Uso de patrones de diseño (Singleton, factory, dependency injection..)
+ - Integración de RESTful API , JSON y manejo de datos sincronizados en la aplicación.
+ - Uso de arquitectura Hexagonal con técnicas de arquitectura limpia.
 
  ## Proyectos personales  🛠️
 
  ### Simple TODO App
  
- * Aplicación sencilla con uso de Flutter BLoC como gestor de estado y Hexagonal Architecture.
+ * Aplicación sencilla para gestionar tareas, se utiliza Flutter BLoC y patrón BLoC.
 
-### Weather App
+### Weather App 
 
  * Aplicación del clima que consume un API (Weather Api).
  * Flutter BLoC , patrón BLoC y Arquitectura Hexagonal.

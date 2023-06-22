@@ -4,7 +4,7 @@
 - ℹ️ Tengo 24 años y actualmente resido en la ciudad de La Plata, Argentina.
 - 👨‍💻 Me especializo en el desarrollo multiplataforma utilizando Flutter.
 - 🌱 Actualmente, estoy ampliando mis conocimientos en el desarrollo backend con Java y Spring Boot a través de un bootcamp en **ATLAcademy**.
-- 💼 También formo parte del equipo de desarrollo frontend en **www.digitalsystemsmarket.com**, donde trabajo como desarrollador móvil
+- 💼 También formo parte del equipo de desarrollo frontend en **www.digitalsystemsmarket.com**, donde trabajo como desarrollador móvil.
 
 - 📫 Contacto **gaspar.mdp@gmail.com**.
 

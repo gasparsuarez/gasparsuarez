@@ -24,7 +24,8 @@
  - Utilización de patrones de diseño como Singleton, Factory y Dependency Injection para crear soluciones eficientes y escalables.
  - Integración de RESTful APIs y manejo de datos sincronizados en aplicaciones, asegurando una comunicación fluida entre el backend y el frontend.
  - Implementación de arquitectura Hexagonal y técnicas de arquitectura limpia para construir aplicaciones robustas y de fácil mantenimiento.
-
+ - Aplicación de principios S.O.L.I.D para escribir código modular, cohesivo y reutilizable.
+   
  ## Proyectos personales  🛠️
 
  ### [Simple TODO App](https://github.com/gasparsuarez/todo_app)

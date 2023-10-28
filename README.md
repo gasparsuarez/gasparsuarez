@@ -12,10 +12,9 @@
 <a href="https://www.linkedin.com/in/gasparsuarezzarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaspar-suarez" height="30" width="40" /></a>
 
  ## Lenguajes y herramientas
- 
-<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/> 
- 
- 
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,git,postman,vscode)](https://skillicons.dev)
+
 ## Habilidades  📖
 
  - Utilización de patrones de diseño como Singleton, Factory y Dependency Injection para crear soluciones eficientes y escalables.

@@ -13,7 +13,7 @@
 
  ## Lenguajes y herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,git,postman,vscode)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,git,postman,vscode)
 
 ## Habilidades  📖
 

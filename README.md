@@ -1,26 +1,24 @@
 
-<h1 align="center">¡Hola! 👋 Soy Gaspar</h1>
+<h1 align="center">¡Hi! 👋 I'm Gaspar</h1>
 
-- ℹ️ Tengo 24 años y actualmente resido en la ciudad de La Plata, Argentina.
-- 👨‍💻 Me especializo en el desarrollo multiplataforma utilizando Flutter.
-- 💼 También formo parte del equipo de desarrollo frontend en Ludus Colombia.
+ Hi! I'm Gaspar, I'm 24 years old and I'm from La Plata, Argentina. I'm an enthusiastic Flutter developer and I currently work for Ludus Colombia.
 
-- 📫 Contacto **gaspar.mdp@gmail.com**.
 
-<h3 align="left">Otros medios:</h3>
+- 📫 Contact me: **gaspar.mdp@gmail.com**
+
+## 🔗 Links
 <p align="left">
 <a href="https://www.linkedin.com/in/gasparsuarezzarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaspar-suarez" height="30" width="40" /></a>
 
- ## Lenguajes y herramientas
+## 🛠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,git,postman,vscode)
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/monster555/monster555/blob/main/bloc-logo.svg" title="BLoC" alt="BLoC" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
-## Habilidades  📖
 
- - Utilización de patrones de diseño como Singleton, Factory y Dependency Injection para crear soluciones eficientes y escalables.
- - Integración de RESTful APIs y manejo de datos sincronizados en aplicaciones, asegurando una comunicación fluida entre el backend y el frontend.
- - Implementación de arquitectura Hexagonal y técnicas de arquitectura limpia para construir aplicaciones robustas y de fácil mantenimiento.
- - Aplicación de principios S.O.L.I.D para escribir código modular, cohesivo y reutilizable.
 
 
 

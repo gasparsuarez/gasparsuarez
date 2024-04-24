@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hi! 👋 I'm Gaspar</h1>
 
- Hi! I'm Gaspar, I'm 24 years old and I'm from La Plata, Argentina. I'm an enthusiastic Flutter developer and I currently work for Ludus Colombia.
+ I'm Gaspar, a passionate 24-year-old Flutter developer from La Plata, Argentina. I'm constantly seeking opportunities to learn and build beautiful and engaging mobile apps using Flutter.
 
 
 - 📫 Contact me: **gaspar.mdp@gmail.com**

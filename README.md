@@ -5,7 +5,7 @@ I'm Gaspar, a passionate 25-year-old Flutter developer from La Plata, Argentina.
 
 📚 Currently learning PHP with Laravel for completing tech stack 
 
-- 📫 Contact me: **gaspar.mdp@gmail.com**
+📫 Contact: **gaspar.mdp@gmail.com**
 
 ## 🔗 Links
 <p align="left">

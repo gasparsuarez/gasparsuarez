@@ -3,6 +3,7 @@
 
 I'm Gaspar, a passionate 25-year-old Flutter developer from La Plata, Argentina. With 1 year of experience, I'm constantly seeking opportunities to learn and build beautiful and engaging mobile apps using Flutter.
 
+📚 Currently learning PHP with Laravel for completing tech stack 
 
 - 📫 Contact me: **gaspar.mdp@gmail.com**
 
@@ -18,8 +19,8 @@ I'm Gaspar, a passionate 25-year-old Flutter developer from La Plata, Argentina.
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 
 
 

@@ -6,12 +6,11 @@ Skilled software developer with 1 years of experience seeking to leverage expert
 📚 Currently learning PHP ecosystem.
 
 🇦🇷 Location: La Plata, Argentina. </br>
-📫 Contact: **gaspar.mdp@gmail.com**
 
-## 🔗 Links
-<p align="left">
-<a href="https://www.linkedin.com/in/gasparsuarezzarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaspar-suarez" height="30" width="40" /></a>
 
+## 🔗 Contact
+<a href="https://www.linkedin.com/in/gasparsuarezzarg" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="gaspar-suarez"/></a>
+<a href="mailto:gaspar.mdp@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gaspar-suarez"/></a>
 ## 🛠 Tech Stack
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;

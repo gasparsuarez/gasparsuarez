@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hi! 👋 I'm Gaspar</h1>
 
-A passionate 25-year-old Flutter developer from La Plata, Argentina. With 1 year of experience, I'm constantly seeking opportunities to learn and build beautiful and engaging mobile apps using Flutter.
+Skilled software developer with 1 years of experience seeking to leverage expertise of Dart and Flutter on challenging projects.
 
 📚 Currently learning PHP with Laravel for backend.
 

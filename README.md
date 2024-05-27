@@ -3,7 +3,7 @@
 
 Skilled software developer with 1 years of experience seeking to leverage expertise of Dart and Flutter on challenging projects.
 
-📚 Currently learning PHP with Laravel for backend.
+📚 Currently learning PHP ecosystem.
 
 📫 Contact: **gaspar.mdp@gmail.com**
 

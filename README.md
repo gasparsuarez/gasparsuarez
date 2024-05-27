@@ -5,7 +5,7 @@ Skilled software developer with 1 years of experience seeking to leverage expert
 
 📚 Currently learning PHP ecosystem.
 
-🇦🇷 Location: La Plata, Argentina. 
+🇦🇷 Location: La Plata, Argentina. </br>
 📫 Contact: **gaspar.mdp@gmail.com**
 
 ## 🔗 Links

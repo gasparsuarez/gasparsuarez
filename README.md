@@ -1,6 +1,8 @@
-<h1 align="center">¡Hi! 👋 I'm Gaspar</h1>
+<p align=”center”>
 
-Skilled software developer with 1 years of experience seeking to leverage expertise of Dart and Flutter on challenging projects.
+<img width="1834" alt="my_banner" src="https://github.com/gasparsuarez/gasparsuarez/assets/22453545/1444efb6-60b6-4e2e-8d99-9114016e7363">
+
+</p>
 
 📚 Currently learning PHP ecosystem.
 

@@ -1,4 +1,3 @@
-
 <h1 align="center">¡Hi! 👋 I'm Gaspar</h1>
 
 Skilled software developer with 1 years of experience seeking to leverage expertise of Dart and Flutter on challenging projects.

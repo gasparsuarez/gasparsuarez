@@ -4,8 +4,6 @@
 
 </p>
 
-📚 Currently learning PHP ecosystem.
-
 🇦🇷 Location: La Plata, Argentina. </br>
 
 

@@ -1,10 +1,7 @@
-<p align=”center”>
 
-<img width="1834" alt="my_banner" src="https://github.com/gasparsuarez/gasparsuarez/assets/22453545/1444efb6-60b6-4e2e-8d99-9114016e7363">
+<div align="center">
 
-</p>
-
-<p>
+  <img src="./github-header-image.png" alt="Header" />
 
 <h1>Connect</h1>
 
@@ -16,7 +13,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,postman,firebase,html,css,tailwind,javascript,typescript,react,nodejs)](https://skillicons.dev)
 <img src="https://github.com/monster555/monster555/blob/main/bloc-logo.svg" title="BLoC" alt="BLoC" width="40" height="40"/>&nbsp;
-</p>
+
+</div>
+
+
+
+
 
 
 

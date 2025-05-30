@@ -14,7 +14,7 @@
 
 <h1>Tech Stack</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,typescript,git,github,vscode,postman,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,postman,firebase,html,css,tailwind,javascript,typescript,react,nodejs)](https://skillicons.dev)
 <img src="https://github.com/monster555/monster555/blob/main/bloc-logo.svg" title="BLoC" alt="BLoC" width="40" height="40"/>&nbsp;
 </p>
 
